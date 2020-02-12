@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Exercício do curso de Flotter básico do balta.io (https://www.youtube.com/watch?v=dA8Bbzw0_lo&list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ&index=1).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
